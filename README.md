@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Me llamo Pablo Alonso</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
-- 🌱 I’m currently learning **Java , Spring**
+- 🌱 Actualmente estoy aprendiendo **Java , Spring**
 
-- 📫 How to reach me **pabloam1999@hotmail.com**
+- 📫 Contactar en **pabloam1999@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
