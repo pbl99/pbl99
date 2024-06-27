@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, Me llamo Pablo Alonso</h1>
-<h3 align="center">Principalmente me dedico al backend</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Java , Spring**
 
