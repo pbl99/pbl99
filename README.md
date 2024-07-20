@@ -1,6 +1,6 @@
+![Banner](banner.png)
 <h1 align="center">Hola 👋, Me llamo Pablo Alonso</h1>
 
-![Banner](banner.png)
 
 - 🌱 Actualmente estoy aprendiendo **Java , Spring**
 
